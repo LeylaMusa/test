@@ -3,6 +3,9 @@
     "cypress": "^13.6.2"
   },
   "scripts": {
-    "zz": "cypress open"
+    "zz": "cypress open",
+    "cy:run:chrome": "cypress run --browser chrome"
+
   }
+ 
 }
